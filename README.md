@@ -1,2 +1,2 @@
 # Forecasting-series
-For now it will be some programms to forecasting 
+For now it will be some programms to forecasting, I like working whit this kind of analisys so I started to programm a little bit about this, so now is not a full developed work, but maybe it could help and also you could help me. Thanks ...
